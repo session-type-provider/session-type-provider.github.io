@@ -1,14 +1,19 @@
 # Session Type Providers (STP)
 STPs is a compiler plug-in in F# that generated APIs from protocols. 
 
-Consider teh following protocol between a client and a server
+Consider the following protocol between a client and a server
+####Scribble protocol:
 ```
 DIV(x:int, y:int) from C to S; 
 RES(z:int) from S to C; 
 ```
+####F# program 
 
 # Support for interaction refinements
-
+```
+DIV(x:int, y:int) from C to S; @{y!=0}  
+RES(z:int) from S to C; @{z=x/y}
+```
 
 # Solution
 
