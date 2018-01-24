@@ -1,5 +1,5 @@
 # Session Type Providers (STP)
-[STP] (https://github.com/rumineykova/Sast) is a compiler plug-in in F# that generated APIs from protocols. 
+[STP](https://github.com/rumineykova/Sast) is a compiler plug-in in F# that generated APIs from protocols. 
 
 Consider the following protocol between a client and a server
 ####Scribble protocol:
