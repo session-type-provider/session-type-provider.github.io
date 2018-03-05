@@ -27,9 +27,9 @@ Then the geenrated code for sending will explicitly contain teh specified check.
 CC'18: Session type Provider: Compile-time API Generation for Distributed Protocols with Interaction Refinements in F#
 You can find the full version of the paper [here] (https://www.doc.ic.ac.uk/~rn710/thesis/stp.pdf)
 
-# You can the slides from the presentation [here] (https://github.com/rumineykova/Sast) 
-
-# Check the tool [here] (https://github.com/rumineykova/Sast)
+# Resources: 
+- Slides from the presentation at CC'18 [here] (https://github.com/rumineykova/Sast) 
+- Check the tool [here] (https://github.com/rumineykova/Sast)
 
 
 
