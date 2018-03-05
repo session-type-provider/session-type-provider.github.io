@@ -16,7 +16,7 @@ s.send(S, Div, 4, 2).receive(S, Res, z)
 ```
 
 # Support for interaction refinements
-The tool supports checks of payload constraints. For example, we can augment the protocol below to specify that teh second argument is not zero. 
+The tool supports checks of payload constraints. For example, we can augment the protocol below to specify that the second argument is cannot be a zero. 
 ```
 DIV(x:int, y:int) from C to S; @{y!=0}  
 RES(z:int) from S to C; @{z=x/y}
