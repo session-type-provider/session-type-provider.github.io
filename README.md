@@ -24,10 +24,10 @@ RES(z:int) from S to C; @{z=x/y}
 Then the geenrated code for sending will explicitly contain teh specified check. 
 
 # Publications
-CC'18: [Session type Provider: Compile-time API Generation for Distributed Protocols with Interaction Refinements in F#](https://www.doc.ic.ac.uk/~rn710/thesis/stp.pdf)
+CC'18: [Session type Provider: Compile-time API Generation for Distributed Protocols with Interaction Refinements in F#](http://mrg.doc.ic.ac.uk/publications/a-session-type-provider/paper.pdf)
 
 # Resources: 
-- [Slides from the presentation at CC'18](https://github.com/rumineykova/Sast) 
+- [Slides from the presentation at CC'18](http://mrg.doc.ic.ac.uk/publications/a-session-type-provider/slides.pdf) 
 - [Check the tool](https://github.com/rumineykova/Sast)
 
 
